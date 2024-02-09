@@ -12,7 +12,7 @@ I took up a full-time mathematics and physics teaching position at [Omega Learni
 Engineer at Huawei Technologies Company Cameroon Ltd. I continued in that teaching role till the end of the school 
 year in May 2019. I later joined [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), Rwanda in July that year for my Master's degree studies. Upon graduation in May 2020, I took up a Graduate Teaching Assitant role under the supervision of Prof. [Patrick McSharry](https://www.mcsharry.net/) and worked with him until March 2021, assisting in three data science courses. I have been visiting the university of Cambridge since September 2023. While there, I am serving as a laboratory assistant for the Digital Electronics hardware lab supervised by Prof. [Ian Wassell](https://www.cst.cam.ac.uk/people/ijw24) at The University of Cambridge in the United Kingdom.
 
-Below is the list of courses I have assisted in:
+Below is the list of courses I have assisted:
 
 ## University of Cambridge, United Kingdom
 - Hardware Lab: Digital Electronics (Michaelmas 2023 & 2024)
