@@ -1,2 +1,6 @@
-/changan.html
-/demo.html
+_site/
+images/posts/*.tex
+images/posts/*.pdf
+images/posts/*.sty
+_source/*_cache
+.Rproj.user
