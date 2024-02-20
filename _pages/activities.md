@@ -2,6 +2,7 @@
 permalink: /activities/
 title: "Activities"
 ---
+Apart from research, I constantly engage in other activities like assisting in teaching courses, supervising labs, performing peer reviews for conferences, and volunteering in conference organizing committees. 
 
 ## Teaching
 
