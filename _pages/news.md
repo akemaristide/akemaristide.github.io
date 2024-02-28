@@ -4,6 +4,7 @@ title: "News"
 author_profile: true
 ---
 
+- <b>[Feb 2024]</b> Our paper "Evaluating the Impact of Flow Length on the Performance of In-Switch Inference Solution" has been accepted at the Computer and Networking Experimental Research using Testbeds Workshop (CNERT 2024), co-located with IEEE INFOCOM 2024 in Vancouver.
 - <b>[Jan 2024]</b> I attended the BANYAN project final meeting in Uppsala, Sweden from 25-26 January.
 - <b>[Dec 2023]</b> Our paper "Encrypted Traffic Classification at Line Rate in Programmable Switches with Machine Learning" has been accepted at NOMS 2024 - IEEE/IFIP Network Operations and Management Symposium, Seoul, South Korea, 6-10 May 2024.
 - <b>[Dec 2023]</b> Our paper "Jewel: Resource-Efficient Joint Packet and Flow Level Inference in Programmable Switches" has been accepted at IEEE INFOCOM 2024 - IEEE Conference on Computer Communications, Vancouver, Canada, 20-23 May 2024.
