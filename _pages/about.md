@@ -22,4 +22,4 @@ Recent research outputs are published in top conferences like [IEEE INFOCOM](htt
 Prior to my PhD studies, I completed an engineering degree at the [University of Yaounde I](https://uy1.uninet.cm/), in Cameroon and a master's 
 in electrical and computer engineering at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/index.html), in Rwanda. There, my research was on machine learning for energy-saving optimization in cellular networks, with a conference paper published in [IEEE UEMCON 2020](https://ieee-uemcon.org/ieee-uemcon-2020/). 
 
-[See site visit statistics](/visitors.html)
+<!-- [See site visit statistics](/visitors.html) -->
