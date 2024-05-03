@@ -3,7 +3,7 @@ title: "Ultra-Low Latency User-Plane Cyberattack Detection in SDN-based Smart Gr
 collection: publications
 permalink: /publication/2024-eenergy
 date: 2024-06-04
-venue: 'E-Energy '24: The 15th ACM International Conference on Future and Sustainable Energy Systems'
+venue: 'E-Energy `24: The 15th ACM International Conference on Future and Sustainable Energy Systems'
 paperurl: '#'
 link: '#'
 github: 'https://github.com/nds-group/smart-grid'
