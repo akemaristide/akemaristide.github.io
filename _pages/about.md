@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a researcher at the interface between data science and networking.
-I aim to apply data science and artificial intelligence to help unleash the full potential of next-generation networks. 
+Hi there! I am a researcher at the interface between machine learning and programmable networking.
+I aim to apply these two concepts to help unleash the full potential of next-generation networks. 
 
-I am a PhD student in the [Networks Data Science Group](https://networks.imdea.org/team/research-groups/networks-data-science-group/) at [IMDEA Networks Institute](https://networks.imdea.org/) in Madrid, Spain, headed by [Prof. Marco Fiore](https://networks.imdea.org/team/imdea-networks-team/people/marco-fiore/).
+I am a final-year PhD student in the [Networks Data Science Group](https://networks.imdea.org/team/research-groups/networks-data-science-group/) at [IMDEA Networks Institute](https://networks.imdea.org/) in Madrid, Spain, headed by [Prof. Marco Fiore](https://networks.imdea.org/team/imdea-networks-team/people/marco-fiore/).
 I am also a student at [Universidad Carlos III de Madrid](https://www.uc3m.es/Home), where I am enrolled in the [Telematics Engineering](https://www.uc3m.es/phdprogram/telematic-engineering) program. 
 
-My PhD project is part of the [European Union's Horizon 2020 project "BANYAN"](https://cordis.europa.eu/project/id/860239) which aims to bring big data analytics to radio access networks. At the moment, I am visiting [Ranplan Wireless](https://www.ranplanwireless.com/gb/) and the University of Cambridge in the United Kingdom as 
-part of the secondments of the project. Previously, I visited the SMART team at [Orange](https://www.orange.com/en) Innovation Networks for another secondment.
+My PhD project is part of the [European Union's Horizon 2020 project "BANYAN"](https://cordis.europa.eu/project/id/860239) which aims to bring big data analytics to radio access networks. During my PhD, I visited [Ranplan Wireless](https://www.ranplanwireless.com/gb/) and the University of Cambridge in the United Kingdom as 
+part of the secondments of the EU project. I also visited the SMART team at [Orange](https://www.orange.com/en) Innovation Networks for another secondment.
 My current research interest is in the area of in-band network intelligence, with a focus on in-network machine learning. 
 Recent research outputs are published in top conferences like [IEEE INFOCOM](https://infocom2024.ieee-infocom.org/).
 
