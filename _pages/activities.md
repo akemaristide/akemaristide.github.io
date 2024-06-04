@@ -33,6 +33,8 @@ I am very active in my reseach community, volunteering in the following capaciti
 - Shadow program committee member: EuroSys 2024 conference
 - Program committee member: ACM S3 2023 Workshop
 - Publication chair: Passive and Active Measurement - PAM 2023 conference
+- Reviewer: IEEE/ACM Transactions on Networking
+- External reviewer: IEEE GLOBECOM 2024
 - External reviewer: IEEE INFOCOM 2024
 - External reviewer: IEEE SECON 2023
 - External reviewer: IFIP Networking 2023
