@@ -3,6 +3,8 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+- <b>[May 2024]</b> I attended IEEE INFOCOM, Vancouver, Canada, 20-23 May 2024.
+- <b>[May 2024]</b> I attended IEEE/IFIP NOMS in Seoul, South Korea, 6-10 May 2024. I also got awarded an <strong>IEEE ComSoc Student Travel Grant</strong>.
 - <b>[May 2024]</b> I completed my 8-month secondment in Cambridge, United Kingdom and returned to Madrid.
 - <b>[Apr 2024]</b> Our paper "Ultra-Low Latency User-Plane Cyberattack Detection in SDN-based Smart Grids" has been accepted at the ACM EnergySP'24 workshop co-located with ACM e-Energy'24 which will be held in Singapore, 4-7 June 2024.
 - <b>[Mar 2024]</b> Our paper "Towards Data-Driven Management of Mobile Networks through User Plane Inference" has been accepted at the NOMS 2024 Doctoral Symposium to be held in Seoul, South Korea, 6-10 May 2024.
