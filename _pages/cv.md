@@ -9,4 +9,6 @@ redirect_from:
 
 <iframe src="/files/pdf/CV_Akem_Feb2024.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/CV_Akem_Feb2024.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/CV_Akem.pdf).
+
+(Up-to-date as of 20/06/2024)
