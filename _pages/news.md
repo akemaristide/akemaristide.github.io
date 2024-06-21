@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+- <b>[June 2024]</b> I have been accepted to serve on the SIGCOMM 2024 Artifact Evaluation Committee.
 - <b>[June 2024]</b> I attended ACM e-Energy in Singapore, 4-7 June 2024.
 - <b>[May 2024]</b> I attended IEEE INFOCOM, Vancouver, Canada, 20-23 May 2024.
 - <b>[May 2024]</b> I attended IEEE/IFIP NOMS in Seoul, South Korea, 6-10 May 2024. I also got awarded an <strong>IEEE ComSoc Student Travel Grant</strong>.
