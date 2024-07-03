@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-metacom-security-switch-ml
 date: 2023-06-28
 venue: '2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)'
-paperurl: 'https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/1682/MetaCom23_postprint.pdf?sequence=6&isAllowed=y'
+paperurl: 'https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/1682/MetaCom_author_version.pdf?sequence=8&isAllowed=y'
 link: 'https://ieeexplore.ieee.org/document/10271818'
 # code: 'https://doi.org/10.7910/DVN/VUY8UI'
 github: 'https://github.com/nds-group/MetaCom'

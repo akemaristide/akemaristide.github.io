@@ -30,10 +30,11 @@ Below is the list of courses I have assisted:
 ## Community Service
 
 I am very active in my reseach community, volunteering in the following capacities:
+- Program committee member: PAM 2025
 - Artifact evaluation committee: SIGCOMM 2024
-- Shadow program committee member: EuroSys 2024 conference
+- Shadow program committee member: EuroSys 2024
 - Program committee member: ACM S3 2023 Workshop
-- Publication chair: Passive and Active Measurement - PAM 2023 conference
+- Publication chair: PAM 2023
 - Reviewer: IEEE/ACM Transactions on Networking
 - External reviewer: IEEE GLOBECOM 2024
 - External reviewer: IEEE INFOCOM 2024
