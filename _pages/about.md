@@ -11,7 +11,7 @@ redirect_from:
 Hi there! I am a researcher at the interface between machine learning and programmable networking.
 I aim to apply these two concepts to help unleash the full potential of next-generation networks. 
 
-<b>I am on the research job market. I am open to postdoctoral or industrial research positions.</b>
+<b>I am on the research job market.</b>
 
 I am a final-year PhD student in the [Networks Data Science Group](https://networks.imdea.org/team/research-groups/networks-data-science-group/) at [IMDEA Networks Institute](https://networks.imdea.org/) in Madrid, Spain, headed by [Prof. Marco Fiore](https://networks.imdea.org/team/imdea-networks-team/people/marco-fiore/).
 I am also a student at [Universidad Carlos III de Madrid](https://www.uc3m.es/Home), where I am enrolled in the [Telematics Engineering](https://www.uc3m.es/phdprogram/telematic-engineering) program. 
