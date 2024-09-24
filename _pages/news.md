@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+- <b>[Sep 2024]</b> Our paper "Towards Real-Time Intrusion Detection in P4-Programmable 5G User Plane Functions" has been accepted at the Euro'P4 workshop co-located with IEEE ICNP which will be held in Charleroi, Belgium, 28-31 October 2024.
 - <b>[July 2024]</b> I have been invited to the PAM 2025 Program Committee.
 - <b>[June 2024]</b> I have been accepted to serve on the SIGCOMM 2024 Artifact Evaluation Committee.
 - <b>[June 2024]</b> I attended ACM e-Energy in Singapore, 4-7 June 2024.
