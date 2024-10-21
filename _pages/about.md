@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a researcher at the interface between machine learning and programmable networking.
-I aim to apply these two concepts to help unleash the full potential of next-generation networks. 
+I am a researcher at the interface between machine learning and programmable networking.
+I aim to apply these two concepts to contribute to unleashing the full potential of next-generation networks. 
 
 <b>I am on the research job market.</b>
 
