@@ -11,4 +11,4 @@ redirect_from:
 
 You can download a PDF copy of my CV [here](/files/pdf/CV_Akem.pdf).
 
-(Up-to-date as of 12/2024)
+[Last updated: 10/01/2024]
