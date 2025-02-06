@@ -24,7 +24,7 @@ Below is the list of courses I have assisted:
     - [Course Description](https://www.africa.engineering.cmu.edu/academics/courses/18-785.html)
 - 18-787-K3: Data Analytics (Spring 2021)
     - [Course Description](https://www.africa.engineering.cmu.edu/academics/courses/18-787-K3.html)
-- 18-787-K4: Data Analytics (Spring 2021)
+- 18-787-K4: Big Data Science (Spring 2021)
     - [Course Description](https://www.africa.engineering.cmu.edu/academics/courses/18-788-K4.html)
 
 ## Community Service
