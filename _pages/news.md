@@ -3,6 +3,8 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+- <b>[Feb 2025]</b> New Chapter! I joined the Computing Infrastructure Group at The University of Oxford as a postdoctoral researcher.
+- <b>[Jan 2025]</b> After 3 years and 10 months, my research journey at IMDEA Networks Institute finally ended on 31 January 2025. I am grateful for the strong research foundation I gained over the years.
 - <b>[Jan 2025]</b> Our paper "Real-Time Encrypted Traffic Classification in Programmable Networks with P4 and Machine Learning" has been published in Wiley's <i>International Journal of Network Management</i>. This work builds on and extends our previous IEEE/IFIP NOMS 2024 paper which was joint work with Orange Labs in France.
 - <b>[Oct 2024]</b> I attended IEEE ICNP in Charleroi, Belgium, where I presented our accepted paper at the 7th European P4 Workshop.
 - <b>[Sep 2024]</b> Our paper "Towards Real-Time Intrusion Detection in P4-Programmable 5G User Plane Functions" has been accepted at the Euro'P4 workshop co-located with IEEE ICNP which will be held in Charleroi, Belgium, 28-31 October 2024.
