@@ -38,3 +38,8 @@
 .container:hover .overlay {
   opacity: 0.25;
 }
+
+/* X (formerly Twitter) icon fallback - use Twitter icon if X icon is not available */
+.fa-x-twitter:before {
+  content: "\f099"; /* Twitter icon from Font Awesome as fallback */
+}
