@@ -30,6 +30,7 @@ Below is the list of courses I have assisted:
 ## Community Service
 
 I am very active in my reseach community, volunteering in the following capacities:
+- Program committee member: Passive and Active Measurement Conference (PAM) 2026
 - Program committee member: Passive and Active Measurement Conference (PAM) 2025
 - Artifact evaluation committee: SIGCOMM 2024
 - Shadow program committee member: EuroSys 2024
