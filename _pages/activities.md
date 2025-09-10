@@ -15,6 +15,10 @@ I took up a full-time mathematics and physics teaching position at Omega Learnin
 year in May 2019. I later joined [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), Rwanda in July that year for my Master's degree studies. Upon graduation in May 2020, I took up a Graduate Teaching Assistant role under the supervision of Prof. [Patrick McSharry](https://www.mcsharry.net/) and worked with him until March 2021, assisting in three data science courses. I visited the University of Cambridge from Otober 2022 - February 2023 and from September 2023 to February 2024, where I am served as a laboratory assistant for the Hardware Practical Classes supervised by Prof. [Ian Wassell](https://www.cst.cam.ac.uk/people/ijw24).
 
 Below is the list of courses I have assisted:
+### University of Oxford, United Kingdom
+- CWM-19: Programmable Networks (Trinity Term 2025)
+    - [Course Description](https://github.com/Ox-EngSci/CWM-ProgNets)
+
 ### University of Cambridge, United Kingdom
 - Hardware Practical Classes (Michaelmas 2023 & 2024)
     - [Course Description](https://www.cl.cam.ac.uk/teaching/2223/HW/)
