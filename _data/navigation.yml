@@ -5,12 +5,15 @@ main:
 
   - title: "Publications"
     url: /publications/
-    
-  # - title: "Research"
-  #   url: /research/
 
-  - title: "Activities"
-    url: /activities/
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Service"
+    url: /service/
+
+  - title: "Talks"
+    url: /talks/
 
   # - title: "Software"
   #   url: /software/

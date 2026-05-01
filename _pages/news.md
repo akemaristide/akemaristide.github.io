@@ -3,10 +3,62 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+
+<style>
+.news-toggle {
+  display: none;
+}
+
+.older-news {
+  display: none;
+}
+
+.news-toggle:checked + .toggle-button + .older-news {
+  display: block;
+}
+
+.toggle-button {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  padding: 8px 16px;
+  margin: 20px 0;
+  cursor: pointer;
+  display: inline-block;
+  color: #495057;
+  font-size: 14px;
+  transition: background-color 0.2s;
+}
+
+.toggle-button:hover {
+  background: #e9ecef;
+}
+
+.news-toggle:checked + .toggle-button:after {
+  content: " Hide older news...";
+}
+
+.news-toggle:not(:checked) + .toggle-button:after {
+  content: " Show older news...";
+}
+</style>
+
+## Recent News
+- <b>[Apr 2026]</b> Our paper on real-time intrusion detection for IoMT with SmartNICs was accepted to the Workshop on Edge Network Softwarization (ENS), co-located with IEEE NetSoft 2026.
+- <b>[Apr 2026]</b> Our paper on remote patient monitoring with in-network ML on IoMT gateways was accepted to the IEEE Internet of Things Journal.
+- <b>[Mar 2026]</b> Our paper on hybrid in-network inference in SmartNICs (HyNIC) was accepted to IEEE NetSoft 2026.
+- 🏆 <b>[Dec 2025]</b> My PhD thesis received the <b>Outstanding Doctoral Thesis (PhD) Award</b> from Universidad Carlos III de Madrid.
 - <b>[Sep 2025]</b> <b>New Chapter!</b> I joined the University of Southampton as a Lecturer in Computer Science.
 - <b>[Aug 2025]</b> I was invited to the Technical Program Committee for the Passive and Active Measurement Conference (PAM) 2026.
+- 🏆 <b>[May 2025]</b> My PhD thesis received the <b>Best Doctoral Thesis (PhD) Award</b> from the IEEE Spain Signal Processing and Communications Joint Chapter.
+
+<input type="checkbox" id="news-toggle" class="news-toggle">
+<label for="news-toggle" class="toggle-button"></label>
+
+<div class="older-news">
+
+## Older News
 - <b>[May 2025]</b> I attended the 2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), 26–29 May 2025, Barcelona, Spain.
-- <b>[May 2025]</b> My PhD thesis received the <b>Best Doctoral Thesis (PhD) Award</b> from the IEEE Spain Signal Processing and Communications Joint Chapter.
 - <b>[April 2025]</b> Our paper "Practical and General-Purpose Flow-Level Inference with Random Forests in Programmable Switches" was accepted for publication in the IEEE/ACM Transactions on Networking.
 - <b>[Feb 2025]</b> <b>New Chapter!</b> I joined the Computing Infrastructure Group at The University of Oxford as a postdoctoral researcher.
 - <b>[Jan 2025]</b> After 3 years and 10 months, my research journey at IMDEA Networks Institute finally ended on 31 January 2025. I am grateful for the strong research foundation I gained over the years.
@@ -17,18 +69,20 @@ author_profile: true
 - <b>[June 2024]</b> I have been accepted to serve on the SIGCOMM 2024 Artifact Evaluation Committee.
 - <b>[June 2024]</b> I attended ACM e-Energy in Singapore, 4-7 June 2024.
 - <b>[May 2024]</b> I attended IEEE INFOCOM, Vancouver, Canada, 20-23 May 2024.
-- <b>[May 2024]</b> I attended IEEE/IFIP NOMS in Seoul, South Korea, 6-10 May 2024. I also got awarded an <strong>IEEE ComSoc Student Travel Grant</strong>.
+- 🏆 <b>[May 2024]</b> I attended IEEE/IFIP NOMS in Seoul, South Korea, 6-10 May 2024. I also got awarded an <strong>IEEE ComSoc Student Travel Grant</strong>.
 - <b>[May 2024]</b> I completed my 8-month secondment in Cambridge, United Kingdom and returned to Madrid.
-- <b>[Apr 2024]</b> I was awarded an <strong>ACM SIGEnergy Student Travel Grant</strong>.
+- 🏆 <b>[Apr 2024]</b> I was awarded an <strong>ACM SIGEnergy Student Travel Grant</strong>.
 - <b>[Apr 2024]</b> Our paper "Ultra-Low Latency User-Plane Cyberattack Detection in SDN-based Smart Grids" has been accepted at the ACM EnergySP'24 workshop co-located with ACM e-Energy'24 which will be held in Singapore, 4-7 June 2024.
 - <b>[Mar 2024]</b> Our paper "Towards Data-Driven Management of Mobile Networks through User Plane Inference" has been accepted at the NOMS 2024 Doctoral Symposium to be held in Seoul, South Korea, 6-10 May 2024.
 - <b>[Feb 2024]</b> Our paper "Evaluating the Impact of Flow Length on the Performance of In-Switch Inference Solution" has been accepted at the Computer and Networking Experimental Research using Testbeds Workshop (CNERT 2024), co-located with IEEE INFOCOM 2024 in Vancouver.
 - <b>[Jan 2024]</b> I attended the BANYAN project final meeting in Uppsala, Sweden from 25-26 January.
+
+</div>
 - <b>[Dec 2023]</b> Our paper "Encrypted Traffic Classification at Line Rate in Programmable Switches with Machine Learning" has been accepted at NOMS 2024 - IEEE/IFIP Network Operations and Management Symposium, Seoul, South Korea, 6-10 May 2024.
 - <b>[Dec 2023]</b> Our paper "Jewel: Resource-Efficient Joint Packet and Flow Level Inference in Programmable Switches" has been accepted at IEEE INFOCOM 2024 - IEEE Conference on Computer Communications, Vancouver, Canada, 20-23 May 2024.
 - <b>[Sep 2023]</b> I started a 6-month research visit to the Department of Computer Science and Technology at the University of Cambridge in the UK.
 - <b>[Sep 2023]</b> I started an 8-month research visit to Ranplan Wireless, Cambridge, UK.
-- <b>[June 2023]</b> Our demo, "Showcasing In-Switch Machine Learning Inference" won the <strong>Best Demo Award</strong> at IEEE NetSoft 2023 in Madrid, Spain.
+- 🏆 <b>[June 2023]</b> Our demo, "Showcasing In-Switch Machine Learning Inference" won the <strong>Best Demo Award</strong> at IEEE NetSoft 2023 in Madrid, Spain.
 - <b>[May 2023]</b> I attended IEEE INFOCOM 2023 in New York, USA from 17-20 May and presented our paper "Flowrest".
 - <b>[Mar 2023]</b> I started a 6-month research visit to the SMART research team at Orange Labs, Paris, France.
 - <b>[Feb 2023]</b> Our demo of the Flowrest paper was accepted to the IEEE INFOCOM 2023 Demo Session.

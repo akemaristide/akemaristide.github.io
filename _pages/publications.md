@@ -11,8 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign publications_by_year = site.publications | group_by_exp: 'post', 'post.date | date: "%Y"' | sort: 'name' | reverse %}
+
+{% for year_group in publications_by_year %}
+  <h2>{{ year_group.name }}</h2>
+  {% for post in year_group.items reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}
 
 <sup>*</sup> Equal authorship
