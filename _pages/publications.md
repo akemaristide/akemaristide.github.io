@@ -51,13 +51,13 @@ permalink: /publications/
   {% endif %}
 {% endfor %}
 
-## 2021
+<!-- ## 2021
 {% for post in site.publications reversed %}
   {% capture pub_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% if pub_year == "2021" %}
     {% include archive-single.html %}
   {% endif %}
-{% endfor %}
+{% endfor %} -->
 
 ## 2020
 {% for post in site.publications reversed %}

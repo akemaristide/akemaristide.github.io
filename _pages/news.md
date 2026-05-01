@@ -5,16 +5,8 @@ author_profile: true
 ---
 
 <style>
-.news-toggle {
-  display: none;
-}
-
 .older-news {
   display: none;
-}
-
-.news-toggle:checked + .toggle-button + .older-news {
-  display: block;
 }
 
 .toggle-button {
@@ -50,7 +42,6 @@ function toggleNews() {
   }
 }
 </script>
-</style>
 
 ## Recent News
 - <b>[Apr 2026]</b> Our paper on real-time intrusion detection for IoMT with SmartNICs was accepted to the Workshop on Edge Network Softwarization (ENS), co-located with IEEE NetSoft 2026.
