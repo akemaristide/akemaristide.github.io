@@ -1,8 +1,8 @@
 ---
-layout: archive
+# layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+# author_profile: true
 ---
 
 {% if author.googlescholar %}
@@ -11,13 +11,60 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign publications_by_year = site.publications | group_by_exp: 'post', 'post.date | date: "%Y"' | sort: 'name' | reverse %}
-
-{% for year_group in publications_by_year %}
-  <h2>{{ year_group.name }}</h2>
-  {% for post in year_group.items reversed %}
+## 2026
+{% for post in site.publications reversed %}
+  {% capture pub_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if pub_year == "2026" %}
     {% include archive-single.html %}
-  {% endfor %}
+  {% endif %}
+{% endfor %}
+
+## 2025
+{% for post in site.publications reversed %}
+  {% capture pub_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if pub_year == "2025" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## 2024
+{% for post in site.publications reversed %}
+  {% capture pub_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if pub_year == "2024" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## 2023
+{% for post in site.publications reversed %}
+  {% capture pub_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if pub_year == "2023" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## 2022
+{% for post in site.publications reversed %}
+  {% capture pub_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if pub_year == "2022" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## 2021
+{% for post in site.publications reversed %}
+  {% capture pub_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if pub_year == "2021" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## 2020
+{% for post in site.publications reversed %}
+  {% capture pub_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if pub_year == "2020" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 <sup>*</sup> Equal authorship
