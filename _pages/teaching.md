@@ -7,7 +7,7 @@ title: "Teaching"
 **Lab Demonstrator** • *2025*
 
 - **CWM-19: Programmable Networks** *(Trinity Term 2025)*  
-  👨‍🏫 *Supervised by Prof. [Noa Zilberman](https://eng.ox.ac.uk/computing/people/noa)*
+  👨‍🏫 *Supervised by Prof. [Noa Zilberman](https://eng.ox.ac.uk/computing/people/noa)*  
   📚 [Course Description](https://github.com/Ox-EngSci/CWM-ProgNets)
 
 ---

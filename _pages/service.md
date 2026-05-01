@@ -1,9 +1,7 @@
 ---
 permalink: /service/
-title: "Service"
+title: "Professional Service"
 ---
-
-## Professional Service
 
 ### 📋 Conference Organization & Program Committees
 
