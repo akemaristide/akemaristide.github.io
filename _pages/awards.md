@@ -5,6 +5,10 @@ title: "Awards"
 
 ## Awards & Recognition
 
+### 2026
+- **✈️ IEEE ComSoC Conference Travel Grant**  
+  *IEEE NetSoft 2026* • May 2026
+
 ### 2025
 - **🎓 Outstanding Doctoral Thesis Award (PhD)**  
   *Universidad Carlos III de Madrid (UC3M), Spain* • December 2025

@@ -12,6 +12,7 @@ title: "Professional Service"
 - **Shepherd**: PAM 2026
 - **Session Chair**: PAM 2026
 - **TPC Member**: IEEE FINE 2026
+- **TPC Member**: NTC-R Workshop, co-located with ACM CoNEXT 2026
 
 #### 2025
 - **TPC Member**: PAM 2025
@@ -26,10 +27,13 @@ title: "Professional Service"
 
 ---
 
-### 📚 Journal Reviews
+### 📚 Journal and Magazine Reviews
 - **IEEE/ACM Transactions on Networking (ToN)**
 - **IEEE Transactions on Network and Service Management (TNSM)**
+- **IEEE Transactions on Dependable and Secure Computing (TDSC)**
+- **IEEE Internet Computing**
 - **Elsevier Computer Networks (COMNET)**
+
 
 ---
 
