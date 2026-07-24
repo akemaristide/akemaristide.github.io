@@ -44,7 +44,7 @@ function toggleNews() {
 </script>
 
 ## Recent News
-- <b>[May 2026]</b> Received an IEEE ComSoC Conference Travel Grant to attend IEEE NetSoft 2026 in Berlin, Germany.
+- ✈️ <b>[May 2026]</b> Received an IEEE ComSoC Conference Travel Grant to attend IEEE NetSoft 2026 in Berlin, Germany.
 - <b>[Apr 2026]</b> Our paper on real-time intrusion detection for IoMT with SmartNICs was accepted to the Workshop on Edge Network Softwarization (ENS), co-located with IEEE NetSoft 2026.
 - <b>[Apr 2026]</b> Our paper on remote patient monitoring with in-network ML on IoMT gateways was accepted to the IEEE Internet of Things Journal.
 - <b>[Mar 2026]</b> Our paper on hybrid in-network inference in SmartNICs (HyNIC) was accepted to IEEE NetSoft 2026.
