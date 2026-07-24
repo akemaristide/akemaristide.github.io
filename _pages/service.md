@@ -9,10 +9,11 @@ title: "Professional Service"
 - **TPC Member**: ACM ATC 2026
 - **TPC Member**: IEEE ICNP 2026
 - **TPC Member**: PAM 2026
-- **Shepherd**: PAM 2026
-- **Session Chair**: PAM 2026
 - **TPC Member**: IEEE FINE 2026
 - **TPC Member**: NTC-R Workshop, co-located with ACM CoNEXT 2026
+- **Shepherd**: PAM 2026
+- **Shepherd**: IEEE ICNP 2026
+- **Session Chair**: PAM 2026
 
 #### 2025
 - **TPC Member**: PAM 2025
