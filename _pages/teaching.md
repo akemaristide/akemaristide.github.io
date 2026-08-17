@@ -2,6 +2,13 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+### University of Southampton, UK
+**Lecturer** • *2026-2027*
+
+- **COMP1312: Programming I ** *(First Semester)*  
+  📚 [Course Description](https://www.southampton.ac.uk/courses/2026-27/modules/comp1312)
+
+---
 
 ### University of Oxford, UK
 **Lab Demonstrator** • *2025*
