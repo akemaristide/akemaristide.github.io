@@ -2,7 +2,7 @@
 title: "In-Network Machine Learning for Real-Time Patient Monitoring on IoMT Edge Gateways"
 collection: publications
 permalink: /publication/2026-vista-iotj
-date: 2026-04-18
+date: 2026-04-27
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'https://ora.ox.ac.uk/objects/uuid:b59fa63d-df6d-4937-82f5-6b8cec4caf5e/files/sbv73c3053'
 link: 'https://ieeexplore.ieee.org/document/11495130'
