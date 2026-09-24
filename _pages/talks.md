@@ -8,14 +8,16 @@ title: "Talks"
 ### 2026
 - **Can Africa build efficient AI using edge/cloud federation?**  
   *The Networking Channel EU* • September 9, 2026
-  [Watch video on YouTube](https://www.youtube.com/watch?v=3wsh0fTR3n0&t=1208s)
+
+  [Watch on YouTube](https://www.youtube.com/watch?v=3wsh0fTR3n0&t=1208s)
 
 - **Research Journey: From Problem to Scholarly Publication**  
   *Ruzivo Research Lab, African Leadership University* • February 27, 2026
 
 - **In-Network Inference with P4: From Stateless to Hybrid Approaches**  
   *P4 Developer Days* • January 21, 2026
-  [Watch video on YouTube](https://www.youtube.com/watch?v=xbgbAtniI-4)
+
+  [Watch on YouTube](https://www.youtube.com/watch?v=xbgbAtniI-4)
 
 ### 2025
 - **A Unified Model for Packet and Flow Inference in Programmable Networks**  
