@@ -33,7 +33,6 @@ title: "Talks"
 - **Stateless and Stateful User-Plane Algorithms for Inference in Programmable Networks**  
   *Telefonica Research* • August 28, 2024
 
-- **Stateless and Stateful User-Plane Algorithms for Inference in Programmable Networks**  
   *Purdue University* • August 7, 2024
 
 - **Towards High-Speed Network Intelligence with On-Device Machine Learning**  
