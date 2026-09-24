@@ -44,14 +44,14 @@ function toggleNews() {
 </script>
 
 ## Recent News
+- <b>[Jul 2026]</b> Presented a conference paper, a demo, and a workshop paper at IEEE NetSoft 2026.
+- <b>[Jun 2026]</b> Joined the ACM SIGOPS 2026 Annual Technical Conference (ATC) Technical Program Committee.
 - ✈️ <b>[May 2026]</b> Received an IEEE ComSoC Conference Travel Grant to attend IEEE NetSoft 2026 in Berlin, Germany.
 - <b>[Apr 2026]</b> Our paper on real-time intrusion detection for IoMT with SmartNICs was accepted to the Workshop on Edge Network Softwarization (ENS), co-located with IEEE NetSoft 2026.
 - <b>[Apr 2026]</b> Our paper on remote patient monitoring with in-network ML on IoMT gateways was accepted to the IEEE Internet of Things Journal.
 - <b>[Mar 2026]</b> Our paper on hybrid in-network inference in SmartNICs (HyNIC) was accepted to IEEE NetSoft 2026.
 - 🏆 <b>[Dec 2025]</b> My PhD thesis received the <b>Outstanding Doctoral Thesis (PhD) Award</b> from Universidad Carlos III de Madrid.
 - <b>[Sep 2025]</b> <b>New Chapter!</b> I joined the University of Southampton as a Lecturer in Computer Science.
-- <b>[Aug 2025]</b> I was invited to the Technical Program Committee for the Passive and Active Measurement Conference (PAM) 2026.
-- 🏆 <b>[May 2025]</b> My PhD thesis received the <b>Best Doctoral Thesis (PhD) Award</b> from the IEEE Spain Signal Processing and Communications Joint Chapter.
 
 <div class="toggle-button" onclick="toggleNews()">Show older news...</div>
 
@@ -59,6 +59,8 @@ function toggleNews() {
 
 <h2>Older News</h2>
 <ul>
+<li><b>[Aug 2025]</b> I was invited to the Technical Program Committee for the Passive and Active Measurement Conference (PAM) 2026.</li>
+<li>🏆 <b>[May 2025]</b> My PhD thesis received the <b>Best Doctoral Thesis (PhD) Award</b> from the IEEE Spain Signal Processing and Communications Joint Chapter.</li>
 <li><b>[May 2025]</b> I attended the 2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), 26–29 May 2025, Barcelona, Spain.</li>
 <li><b>[April 2025]</b> Our paper "Practical and General-Purpose Flow-Level Inference with Random Forests in Programmable Switches" was accepted for publication in the IEEE/ACM Transactions on Networking.</li>
 <li><b>[Feb 2025]</b> <b>New Chapter!</b> I joined the Computing Infrastructure Group at The University of Oxford as a postdoctoral researcher.</li>
